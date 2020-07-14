@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(34, 34, 34);
+}
+
+.header {
+    font-family: Zapfino;
+    margin-left: 170px;
+    margin-top: -5px;
+    font-size: 20px;
+}
+
+.app {
+    background-color: rgb(255, 207, 72);
+    position: absolute;
+    width: 500px;
+    left: 50%;
+    margin-left: -251px;
+    margin-top: 25px;
+    border: 1px solid orange;
+}

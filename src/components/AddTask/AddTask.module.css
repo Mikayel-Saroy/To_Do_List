@@ -1,0 +1,12 @@
+.newTask {
+    display: grid;
+    grid-template-areas: 'i a';
+}
+
+.input {
+    grid-area: i;
+}
+
+.addButton {
+    grid-area: a;
+}
